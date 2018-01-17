@@ -72,3 +72,10 @@ For example, in this network, Node b was clicked first, then Node d.
 
 This process can be repeated until the evaluation button is clicked.
 
+Before evaluation button is clicked:
+
+[![pert8.jpg](https://s17.postimg.org/n8fve4lqn/pert8.jpg)](https://postimg.org/image/3ql7y6osr/)
+
+After evaluation button is clicked:
+
+[![pert9.jpg](https://s17.postimg.org/w3gponi8v/pert9.jpg)](https://postimg.org/image/wszi10isb/)
