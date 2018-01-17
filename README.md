@@ -80,6 +80,13 @@ After evaluation button is clicked:
 
 [![pert9.jpg](https://s17.postimg.org/6kodbpja7/pert9.jpg)](https://postimg.org/image/67wz5j10b/)
 
+#### Final Output:
+
+The critical path's nodes will be highlighted in blue. The time it takes to for a node to 
+be completed from the start of the project is shown to the lower left of each node.
+
+Click the button in the buttom right to quit.
+
 #### Note:
 
 When drawing arrows, the program will not be affected by any clicks outside of a circle. However, the program will allow you to make illogical diagrams. Examples of these include arrows pointing backwards, circular projects, nodes that point to themselves, etc. If a logical evaluation is desired, a logical diagram must be drawn.
