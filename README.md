@@ -82,7 +82,7 @@ After evaluation button is clicked:
 
 #### Final Output:
 
-The critical path's nodes will be highlighted in blue. The time it takes to for a node to 
+The critical path's nodes will be highlighted in blue. The time it takes to for a given node to 
 be completed from the start of the project is shown to the lower left of each node.
 
 Click the button in the buttom right to quit.
