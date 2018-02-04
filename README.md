@@ -91,4 +91,4 @@ Click the button in the buttom right to quit.
 
 #### Note:
 
-When drawing arrows, the program will not be affected by any clicks outside of a circle. However, the program will allow you to make illogical diagrams. Examples of these include arrows pointing backwards, circular projects, nodes that point to themselves, etc. If a logical evaluation is desired, a logical diagram must be drawn.
+When drawing arrows, the program will not be affected by any clicks outside of a circle. However, the program will allow you to make illogical diagrams. Examples of these include arrows pointing backwards, circular projects, nodes that point to themselves, etc. If a logical evaluation is desired, a logical diagram must be drawn. However, feel free to push the boundaries looking for improvements.
