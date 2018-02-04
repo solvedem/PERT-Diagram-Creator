@@ -41,15 +41,15 @@ displays an input box for the user to enter time for that node.
 
 After a number is in the entry box, the user clicks elsewhere on the window to be done with the current node.
 
-With yet another click, they can repeat the process and add another node.
+With another click, they can repeat the process and add another node.
 
 [![pert5.jpg](https://s17.postimg.org/jasloo973/pert5.jpg)](https://postimg.org/image/i8if64qdn/)
 
 Step 1 summary:
 
 1. User clicks where they want a node.
-2. User types in number.
-3. User clicks elsewhere on window to enter this number and be done with this node.
+2. User types in number representing time for node's task to be completed.
+3. User clicks elsewhere on window to submit this number and draw the node.
 4. User repeats process until they don't want any more nodes in their network.
 
 [![pert6.jpg](https://s17.postimg.org/r3j9grhrz/pert6.jpg)](https://postimg.org/image/fr6nyz92z/)
@@ -61,7 +61,9 @@ It will be filled with color when it has been clicked.
 
 Arrows will help represent the network and establish dependencies and the critical path.
 
-After the user clicks the next button, they can draw their arrows. This step is quite self explanatory.
+After the user clicks the next button, they can draw their arrows. 
+
+This step might seem self explanatory.
 
 The user clicks two circles, as desired. 
 The first circle the user clicks will depend on the second.
